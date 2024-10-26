@@ -12,7 +12,5 @@ format:
 ```
 
 # Publishing 
-- `quarto render` will generate the html file inside of the same folder
-- then can go to pages in github and publish the html file; 
-    - https://quarto.org/docs/publishing/github-pages.html 
-    - by setting to the /docs folder within test2/docs in this example
+- github pages:
+    - `quarto publish gh-pages` will publish the html file to the gh-pages branch
