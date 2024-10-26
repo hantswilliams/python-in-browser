@@ -1,0 +1,52 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Health Care & Data Science",
+    "section": "",
+    "text": "Preface\nThis is a quarto book.\nTo learn more, read some stuff.",
+    "crumbs": [
+      "Preface"
+    ]
+  },
+  {
+    "objectID": "intro.html",
+    "href": "intro.html",
+    "title": "1  Introduction to Python Code",
+    "section": "",
+    "text": "This is a introduction page",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Introduction to Python Code</span>"
+    ]
+  },
+  {
+    "objectID": "summary.html",
+    "href": "summary.html",
+    "title": "2  Summary",
+    "section": "",
+    "text": "This is a summary page",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Summary</span>"
+    ]
+  },
+  {
+    "objectID": "intro_python.html",
+    "href": "intro_python.html",
+    "title": "1  Introduction to Python Code",
+    "section": "",
+    "text": "This is a introduction page",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Introduction to Python Code</span>"
+    ]
+  },
+  {
+    "objectID": "intro_visualization.html",
+    "href": "intro_visualization.html",
+    "title": "2  Visualizations",
+    "section": "",
+    "text": "2.1 Example: Altair interactive visualisation",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Visualizations</span>"
+    ]
+  }
+]

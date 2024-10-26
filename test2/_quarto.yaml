@@ -1,0 +1,31 @@
+project:
+  type: book
+  output-dir: docs
+
+book:
+  title: "Health Care & Data Science"
+  author: "Hants Williams"
+  date: "10/26/2024"
+  chapters:
+    - index.qmd
+    - intro_python.qmd
+    - intro_visualization.qmd
+
+format:
+  live-html:
+    theme: cosmo
+  pdf:
+    documentclass: scrreprt
+  epub:
+    cover-image: logo.png
+
+pyodide:
+  packages:
+    - matplotlib
+    - ipywidgets
+    - altair
+    - numpy
+    - pandas
+    - vega_datasets
+
+engine: knitr
